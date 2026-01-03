@@ -1,0 +1,2 @@
+Dataset,Data_Type,Total_Rows,Missing_Dates,Parsing_Errors,Duplicate_Dates,Earliest_Date,Latest_Date,Date_Span_Days,Max_Gap_Between_Dates,Expected_Daily_Entries,Actual_Entries,Missing_Days
+Fear Greed Index,datetime64[ns],2644,0,0,0,2018-02-01 00:00:00,2025-05-02 00:00:00,2647,4 days 00:00:00,2648,2644,4
